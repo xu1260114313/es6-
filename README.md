@@ -7,6 +7,10 @@
         <p>通过复制一个或多个对象来创建一个新的对象。</p>
     </li>
     <li>
+        <a href="object-fn/object-entries.js">Object.entries()</a>
+        <p>返回给定对象自身可枚举属性的[key, value]数组。</p>
+    </li>
+    <li>
         <a href="object-fn/object-freeze.js">Object.freeze()</a>
         <p>冻结对象：其他代码不能删除或更改任何属性。</p>
     </li>
